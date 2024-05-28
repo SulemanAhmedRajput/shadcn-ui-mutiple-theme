@@ -34,7 +34,7 @@ function App() {
             <li>⚫ make sure to read the docs do whatever it said instead of creating tsconfig.json create jsconfig.json  - <b>https://ui.shadcn.com/docs/installation/vite</b></li>
             <li> ⚫ you can generate the custom shadcn/ui theme using the offical site or you can use this site to make you own by defined rules -<b> https://gradient.page/tools/shadcn-ui-theme-generator</b></li>
             <li> ⚫ make sure to view the custom <b>ModeToggle,ThemeProvider Component & index.css</b> file</li>
-            <li> ⚫ must use the shadcn/ui provide classes </li>
+            <li> ⚫ must use the shadcn/ui provided classes </li>
           </ul>
         </div>
       </ThemeProvider>
